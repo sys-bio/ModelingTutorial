@@ -37,7 +37,8 @@ Tellurium can also be run from free online services such as Google’s colaboara
 More helpful links:
 - [MEMOTE](https://www.nature.com/articles/s41587-020-0446-y)
 - [Julia](https://julialang.org/)
-- 
+- [Tellurium](https://github.com/sys-bio/tellurium)
+
 
 
 
